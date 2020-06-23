@@ -11,4 +11,3 @@ module "network" {
     costcenter  = "it"
   }
 }
-}
